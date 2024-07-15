@@ -21,9 +21,3 @@ To use this project, you will need to have Jupyter Notebook installed. You can t
 - Python
 - Jupyter Notebook
 - Relevant AI/ML libraries
-
-
-`AZURE_OPENAI_API_KEY = "3642e449a33341f09a495adacb0ca489"
-AZURE_OPENAI_ENDPOINT = "https://genaiexplorencus.openai.azure.com/"
-api_version="2024-02-01"
-DEPLOYMENT_NAME = "gpt-4o"`
